@@ -1,0 +1,11 @@
+C:\Users\gizem\source\repos\DotnetYuzuncuYilBireyselProje\DotnetYuzuncuYilBireyselProje\DotnetYuzuncuYilBireyselProje.Core\bin\Debug\net6.0\DotnetYuzuncuYilBireyselProje.Core.deps.json
+C:\Users\gizem\source\repos\DotnetYuzuncuYilBireyselProje\DotnetYuzuncuYilBireyselProje\DotnetYuzuncuYilBireyselProje.Core\bin\Debug\net6.0\DotnetYuzuncuYilBireyselProje.Core.dll
+C:\Users\gizem\source\repos\DotnetYuzuncuYilBireyselProje\DotnetYuzuncuYilBireyselProje\DotnetYuzuncuYilBireyselProje.Core\bin\Debug\net6.0\DotnetYuzuncuYilBireyselProje.Core.pdb
+C:\Users\gizem\source\repos\DotnetYuzuncuYilBireyselProje\DotnetYuzuncuYilBireyselProje\DotnetYuzuncuYilBireyselProje.Core\obj\Debug\net6.0\DotnetYuzuncuYilBireyselProje.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gizem\source\repos\DotnetYuzuncuYilBireyselProje\DotnetYuzuncuYilBireyselProje\DotnetYuzuncuYilBireyselProje.Core\obj\Debug\net6.0\DotnetYuzuncuYilBireyselProje.Core.AssemblyInfoInputs.cache
+C:\Users\gizem\source\repos\DotnetYuzuncuYilBireyselProje\DotnetYuzuncuYilBireyselProje\DotnetYuzuncuYilBireyselProje.Core\obj\Debug\net6.0\DotnetYuzuncuYilBireyselProje.Core.AssemblyInfo.cs
+C:\Users\gizem\source\repos\DotnetYuzuncuYilBireyselProje\DotnetYuzuncuYilBireyselProje\DotnetYuzuncuYilBireyselProje.Core\obj\Debug\net6.0\DotnetYuzuncuYilBireyselProje.Core.csproj.CoreCompileInputs.cache
+C:\Users\gizem\source\repos\DotnetYuzuncuYilBireyselProje\DotnetYuzuncuYilBireyselProje\DotnetYuzuncuYilBireyselProje.Core\obj\Debug\net6.0\DotnetYuzuncuYilBireyselProje.Core.dll
+C:\Users\gizem\source\repos\DotnetYuzuncuYilBireyselProje\DotnetYuzuncuYilBireyselProje\DotnetYuzuncuYilBireyselProje.Core\obj\Debug\net6.0\refint\DotnetYuzuncuYilBireyselProje.Core.dll
+C:\Users\gizem\source\repos\DotnetYuzuncuYilBireyselProje\DotnetYuzuncuYilBireyselProje\DotnetYuzuncuYilBireyselProje.Core\obj\Debug\net6.0\DotnetYuzuncuYilBireyselProje.Core.pdb
+C:\Users\gizem\source\repos\DotnetYuzuncuYilBireyselProje\DotnetYuzuncuYilBireyselProje\DotnetYuzuncuYilBireyselProje.Core\obj\Debug\net6.0\ref\DotnetYuzuncuYilBireyselProje.Core.dll
