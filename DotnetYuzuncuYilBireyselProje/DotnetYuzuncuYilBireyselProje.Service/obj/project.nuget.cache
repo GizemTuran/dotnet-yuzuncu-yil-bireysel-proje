@@ -1,10 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "Escw/glhVMhJ1ziAZn+ZEp83u5JCXX/OB1jCT9SNVDotzo+lmzxlSnjSp+TwxwdtiQShAel1i46JXeNBiZVsNg==",
+  "dgSpecHash": "7/xHHZWM+1D64WL+qeMt7fkBG8FwxEvfl05KY4MuqpkJQ6YETKI7tIPTSoErELZ5wHwI64tv4x0SkWGSQBR4Xw==",
   "success": true,
   "projectFilePath": "C:\\Users\\gizem\\source\\repos\\DotnetYuzuncuYilBireyselProje\\DotnetYuzuncuYilBireyselProje\\DotnetYuzuncuYilBireyselProje.Service\\DotnetYuzuncuYilBireyselProje.Service.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\gizem\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\gizem\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\gizem\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\gizem\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
+    "C:\\Users\\gizem\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\gizem\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
+    "C:\\Users\\gizem\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\gizem\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\gizem\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "C:\\Users\\gizem\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.1\\microsoft.entityframeworkcore.6.0.1.nupkg.sha512",

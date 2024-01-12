@@ -67,3 +67,5 @@ C:\Users\gizem\source\repos\DotnetYuzuncuYilBireyselProje\DotnetYuzuncuYilBireys
 C:\Users\gizem\source\repos\DotnetYuzuncuYilBireyselProje\DotnetYuzuncuYilBireyselProje\DotnetYuzuncuYilBireyselProje.API\bin\Debug\net6.0\DotnetYuzuncuYilBireyselProje.Service.pdb
 C:\Users\gizem\source\repos\DotnetYuzuncuYilBireyselProje\DotnetYuzuncuYilBireyselProje\DotnetYuzuncuYilBireyselProje.API\bin\Debug\net6.0\DotnetYuzuncuYilBireyselProje.Core.pdb
 C:\Users\gizem\source\repos\DotnetYuzuncuYilBireyselProje\DotnetYuzuncuYilBireyselProje\DotnetYuzuncuYilBireyselProje.API\bin\Debug\net6.0\DotnetYuzuncuYilBireyselProje.Repository.pdb
+C:\Users\gizem\source\repos\DotnetYuzuncuYilBireyselProje\DotnetYuzuncuYilBireyselProje\DotnetYuzuncuYilBireyselProje.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\gizem\source\repos\DotnetYuzuncuYilBireyselProje\DotnetYuzuncuYilBireyselProje\DotnetYuzuncuYilBireyselProje.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
