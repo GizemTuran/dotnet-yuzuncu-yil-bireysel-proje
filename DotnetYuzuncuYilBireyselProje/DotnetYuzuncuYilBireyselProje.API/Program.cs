@@ -6,6 +6,7 @@ using DotnetYuzuncuYilBireyselProje.Repository.Repositories;
 using DotnetYuzuncuYilBireyselProje.Repository.UnitOfWorks;
 using DotnetYuzuncuYilBireyselProje.Service;
 using DotnetYuzuncuYilBireyselProje.Service.Mapping;
+using DotnetYuzuncuYilBireyselProje.Service.Services;
 using DotnetYuzuncuYilBireyselProje.Service.Validations;
 using FluentValidation.AspNetCore;
 using Microsoft.EntityFrameworkCore;
@@ -22,7 +23,8 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 builder.Services.AddScoped(typeof(IGenericRepository<>),typeof(GenericRepository<>));
 builder.Services.AddScoped(typeof(IService<>), typeof(Service<>));
-builder.Services.AddScoped(typeof(MapProfile));
+builder.Services.AddAutoMapper(typeof(MapProfile));
+builder.Services.AddScoped<IStoreService, StoreService>();
 builder.Services.AddControllers()
     .AddFluentValidation(x =>
     {

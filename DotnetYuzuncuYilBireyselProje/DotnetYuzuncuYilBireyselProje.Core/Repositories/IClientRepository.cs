@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace DotnetYuzuncuYilBireyselProje.Core.Repository
 {
-    public interface IClientRepository:IGenericRepository<ClientProfile>
+    public interface IClientRepository:IGenericRepository<Client>
     {
     }
 }

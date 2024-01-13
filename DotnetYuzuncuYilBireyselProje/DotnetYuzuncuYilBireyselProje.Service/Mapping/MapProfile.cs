@@ -17,6 +17,8 @@ namespace DotnetYuzuncuYilBireyselProje.Service.Mapping
             CreateMap<ClientProfile, ClientProfileDto>().ReverseMap();
 
             CreateMap<StoreDto, Store>();
+            CreateMap<ClientDto, Client>();
+            CreateMap<ClientProfileDto, ClientProfile>();
         }
 
     }

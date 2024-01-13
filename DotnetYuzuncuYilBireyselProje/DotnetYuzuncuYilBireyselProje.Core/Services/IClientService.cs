@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace DotnetYuzuncuYilBireyselProje.Core.Services
 {
-    public interface IClientService:IService<ClientProfile>
+    public interface IClientService:IService<Client>
     {
     }
 }
